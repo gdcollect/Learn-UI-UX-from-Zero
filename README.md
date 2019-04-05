@@ -19,7 +19,7 @@ Above Both defination by <a href="https://www.interaction-design.org/">Interacti
   <li>Adobe XD</li><a href="https://www.adobe.com/in/products/xd.html" target="_blank">Download Now</a>
   <li>SketchApp</li> <a href="https://www.sketch.com/" target="_blank">Download for Only Mac</a>
   <li>Figma</li><a href="https://www.figma.com/" target="_blank">Download</a>
-  <li>Invision</li>
-  <li>Photoshop</li>
-  <li>Framer</li>
+  <li>Invision Studio</li><a href="https://www.invisionapp.com/studio">Download</a>
+  <li>Photoshop</li><a href="">Download</a>
+  <li>Framer</li><a href="https://www.framer.com/">Downlaod</a>
 </ol>
