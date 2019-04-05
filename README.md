@@ -16,8 +16,8 @@ Above Both defination by <a href="https://www.interaction-design.org/">Interacti
 <h1>Step 3: Tools or Software for UI/UX Designer</h1>
 <p>Ok... So Now, How may tools or Software available for UI Design</p>
 <ol>
-  <li>Adobe XD</li> for <b>Windows</b> and <b>Mac</b> and it's<b>Free</b> <a href="https://www.adobe.com/in/products/xd.html">Download and Start Learning</a> [ If you are begineer, start today using rhis one. Trust me, it's easy and Free ]
-  <li>SketchApp</li> for <b>Only Mac</b>
+  <li>Adobe XD</li> for <b>Windows</b> and <b>Mac</b> and it's<b>Free</b> <a href="https://www.adobe.com/in/products/xd.html">Download Now</a> [ If you are begineer, start today using this one. Trust me, it's easy and Free ]
+ <li>SketchApp</li> for <b>Only Mac</b>
   <li>Figma</li>
   <li>Invision</li>
   <li>Photoshop</li>
