@@ -17,7 +17,7 @@ Above Both defination by <a href="https://www.interaction-design.org/">Interacti
 <p>Ok... So Now, How may tools or Software available for UI Design</p>
 <ol>
   <li>Adobe XD</li><a href="https://www.adobe.com/in/products/xd.html">Download Now</a>
-  <li>SketchApp</li> <a href="https://www.sketch.com/" target="blank"></a>
+  <li>SketchApp</li> <a href="https://www.sketch.com/" target="blank">Download for Only Mac</a>
   <li>Figma</li><a href="https://www.figma.com/">Download</a>
   <li>Invision</li>
   <li>Photoshop</li>
